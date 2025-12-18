@@ -1,0 +1,5 @@
+{
+  "name": "3D GeoBuilder - 幾何小建築師",
+  "description": "一個專為國小五年級學生設計的互動式幾何教學工具。透過3D介面自由拼接正方體，學習長方體與正方體的結構、體積與表面積概念，並結合AI助教提供挑戰與引導。",
+  "requestFramePermissions": []
+}
